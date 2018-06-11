@@ -22,7 +22,10 @@
 Learn how to use Contexts and Dependency Injection to manage and inject dependencies into microservices.
 
 [.hidden]
-{repo-description}
+[frame=all, valign=middle]
+|=========================
+|{link-to-published-guide}
+|=========================
 
 == What you'll learn
 
